@@ -29,7 +29,7 @@ The UI is built with Kotlin and Jetpack Compose. For the backend scraping, inste
 
 ## Downloads
 
-You can grab the latest APK from the [Releases](https://github.com/yourusername/PinterestDL/releases) tab.
+You can grab the latest APK from the [Releases](https://github.com/devsasuke/Pinterest-DL/releases) tab.
 
 ## Contact
 
